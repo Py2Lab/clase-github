@@ -28,4 +28,5 @@ Subir cambios a github
 git push origin <rama-de-estos-cambios>
   
 Jalar últimos cambios de la rama en la que estoy
+
 git pull
